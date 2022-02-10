@@ -1,7 +1,7 @@
 # Portfolio numero 2 
 
 se projet est le portfolio numero 2 
-fait pour ne pas perdre sur le fonctonnement de react 
+fait pour continuer a me perfectionner sur le fonctonnement de react suite à ma formation à la wild-code-school 
 
 
 Pour demarrer se projet il faut d'abord faire 
