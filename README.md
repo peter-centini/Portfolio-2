@@ -15,5 +15,5 @@ vous pouvez l'ouvrir [http://localhost:3000](http://localhost:3000) pour le voir
 
 
 <p align="center">
-<img src="https://github.com/peter-centini/Chocolat-Ruby/blob/main/Ruby-screen.png" width="350" title="project img">
+<img src="https://github.com/peter-centini/Portfolio-2/blob/main/screen-portfolio-2.jpeg" width="350" title="project img">
 </p>
