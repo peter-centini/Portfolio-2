@@ -14,3 +14,6 @@ le projet une fois demarrer avec
 vous pouvez l'ouvrir [http://localhost:3000](http://localhost:3000) pour le voir dans votre navigateur .
 
 
+<p align="center">
+<img src="https://github.com/peter-centini/Chocolat-Ruby/blob/main/Ruby-screen.png" width="350" title="project img">
+</p>
