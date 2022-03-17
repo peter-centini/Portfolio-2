@@ -1,17 +1,30 @@
-# Portfolio numero 2 
+## Portfolio numero 2 
 
 se projet est le portfolio numero 2 
 fait pour continuer a me perfectionner sur le fonctonnement de react suite à ma formation à la wild-code-school 
 
 
-Pour demarrer se projet il faut d'abord faire 
+### Pour demarrer se projet il faut d'abord faire 
 
-### `npm install ou npm i`
+``` 
+npm install 
 
-le projet une fois demarrer avec 
-### `npm start``
+ou 
 
-vous pouvez l'ouvrir [http://localhost:3000](http://localhost:3000) pour le voir dans votre navigateur .
+npm i
+
+```
+
+### le projet une fois demarrer avec 
+```
+npm start
+```
+
+vous pouvez l'ouvrir avec votre navigateur préférer a l'adresse suivante [http://localhost:3000](http://localhost:3000) .
+
+### Lien vers la démo héberger sur vercel 
+
+URL : https://portfolio-2-sandy.vercel.app/
 
 
 <p align="center">
