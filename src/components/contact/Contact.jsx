@@ -55,7 +55,7 @@ const Contact = () => {
                 </div>
                 <div className="c-right">
                     <p className="c-desc">
-                        <b>Quelle est votre histoire ?</b> Contactez-moi. Toujours disponible pour
+                        <b>Quelle est votre histoire ?</b> Contactez-moi. Toujours disponible en
                         freelance si le bon projet se présente à moi.
                     </p>
                     <form ref={formRef} onSubmit={handleSubmit}>
