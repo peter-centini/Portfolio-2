@@ -49,7 +49,7 @@ const Contact = () => {
                         </div>
                         <div className="c-info-item">
                             <img className="c-icon" src={Address} alt="" />
-                            175 Rue de Paris, Paris  75000 Françe
+                            175 Rue du Paradis, Paris  75000 Françe
                         </div>
                     </div>
                 </div>
