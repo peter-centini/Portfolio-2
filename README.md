@@ -1,4 +1,4 @@
-## Portfolio numero 2 
+## Portfolio numéro 2 
 
 Se projet est le portfolio n°2 
 
