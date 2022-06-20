@@ -27,7 +27,7 @@ npm i
     "react-dom": "^17.0.2"
     "react-scripts": "4.0.3"
     "web-vitals": "^1.0.1"
-```
+````
 
 ### Le projet une fois demarrer avec 
 ```
